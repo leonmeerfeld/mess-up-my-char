@@ -1,0 +1,39 @@
+#charWrapper {
+    border: 1px solid #3f4444;
+    position: absolute;
+    width: 35%;
+    height: 200px;
+    left: 0;
+}
+
+#charInputHolder {
+    border: 1px solid #3f4444;
+    width: 20%;
+    height: 20%;
+    position: relative;
+}
+
+#charOutputHolder {
+    border: 1px solid #3f4444;
+    width: 20%;
+    height: 20%;
+    position: relative;
+}
+
+#charInput {
+    width: inherit;
+    height: inherit;
+}
+
+#diacriticalMarksSelection {
+    border: 1px solid #3f4444;
+    position: absolute;
+    width: 55%;
+    height: 500px;
+    right: 0;
+}
+
+#contentWrapper {
+    border: 1px solid #3f4444;
+    position: relative;
+}
